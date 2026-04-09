@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://are-himalayan-yak-chews-good-for-puppies.vercel.app/sitemap.xml
+Sitemap: https://yakchewguide.github.io/are-himalayan-yak-chews-good-for-puppies/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
